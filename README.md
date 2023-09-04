@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlshuler
+- 👋 Hi, I’m Matthew Shuler also known as @mlshuler
 - 👀 I’m interested in Python and Excel
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing at this time.
